@@ -4,6 +4,7 @@ import java.util.Map;
 
 public class GBCE {
 
+	
 	/**
 	 * Calculate the GBCE All Share Index for all stocks
 	 * 
